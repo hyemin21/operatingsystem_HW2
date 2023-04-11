@@ -1,9 +1,9 @@
 # OS_HW2 cimin project
 
-##Project Name
+## Project Name
 Cimin project
 
-##Description
+## Description
 이 프로젝트는 입력 시퀀스를 생성하여 대상 프로그램에 제공하고, 대상 프로그램이 충돌하는 입력 시퀀스를 찾아내는 프로젝트이다. 
 
 1. Crash.json 파일을 열고, 전체 파일을 메모리에 로드
@@ -20,7 +20,7 @@ Makefile 실행 설명 —> 필요
 
 
 
-##Prerequisite
+## Prerequisite
 
 https://github.com/hongshin/OperatingSystem/tree/hw2/jsmn
 https://github.com/hongshin/OperatingSystem/tree/hw2/balance
@@ -51,6 +51,6 @@ Ex) “((()))”와 같이 모든 괄호가 올바르게 매치되면 -> suceess
 2. balance/testcases/fail -> 무한 루프 —> 시간 제한을 초과하면 테스트 실행 종료
 
 
-##Environment
+## Environment
 
 
